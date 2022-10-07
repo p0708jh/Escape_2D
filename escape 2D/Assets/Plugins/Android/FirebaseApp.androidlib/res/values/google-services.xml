@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">449420461813</string>
+  <string name="google_storage_bucket" translatable="false">escape2dauth.appspot.com</string>
+  <string name="project_id" translatable="false">escape2dauth</string>
+  <string name="google_api_key" translatable="false">AIzaSyBXulBTxmcTVWakZKFUvDwdxirlR4XtmcE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBXulBTxmcTVWakZKFUvDwdxirlR4XtmcE</string>
+  <string name="google_app_id" translatable="false">1:449420461813:android:362bbe2c25ca59307de7bc</string>
+  <string name="default_android_client_id" translatable="false">449420461813-9jr0k9et2j4lgcb0e3kiiquhpdvhr4o8.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">449420461813-8plj91qr1jiksk1vft3090ogektutul3.apps.googleusercontent.com</string>
+</resources>

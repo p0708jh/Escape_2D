@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - push_block
+  - stop_block
+  - KeyPad
+  - Timer
+  - UI
+  - obstacle
+  - wall
+  - xWall
+  - yWall
+  - standObstacle
+  - upObstacleCollider
+  - downObstacleCollider
+  - rightObstacleCollider
+  - leftObstacleCollider
+  - upPlayerCollider
+  - downPlayerCollider
+  - rightPlayerCollider
+  - leftPlayerCollider
+  - particle
+  - circle
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - OnUI
+  - Circle
+  - Player
+  - Particle
+  - Obstacle
+  - PushBlock
+  - PreventObsacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

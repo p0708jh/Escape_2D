@@ -1,0 +1,4 @@
+repository "escape 2D@p0708jh@cloud"
+  path "/"
+    br "/main"
+    co "/main"

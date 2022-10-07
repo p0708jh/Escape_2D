@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "449420461813",
+    "project_id": "escape2dauth",
+    "storage_bucket": "escape2dauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449420461813:android:362bbe2c25ca59307de7bc",
+        "android_client_info": {
+          "package_name": "com.company.escape2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449420461813-9jr0k9et2j4lgcb0e3kiiquhpdvhr4o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.escape2d",
+            "certificate_hash": "1a9e551c62997ab56b08d14d3f5f76c4b4acc53a"
+          }
+        },
+        {
+          "client_id": "449420461813-o94m5rkd3oqv9j4kmkh2aantpnd2hcj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.escape2d",
+            "certificate_hash": "deedd0b762e5e4f09aa116b09d21474683604bcf"
+          }
+        },
+        {
+          "client_id": "449420461813-8plj91qr1jiksk1vft3090ogektutul3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXulBTxmcTVWakZKFUvDwdxirlR4XtmcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449420461813-8plj91qr1jiksk1vft3090ogektutul3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449420461813-9qso0cjj9cami9hn4uqsgf4ungl4o7jp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.escape2d"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
